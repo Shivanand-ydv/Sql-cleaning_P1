@@ -22,7 +22,8 @@ The objective is to transform raw data into a **clean, consistent, and analysis-
 - Inconsistent categorical values  
 - Mixed and invalid date formats  
 - Incorrect data types  
-- Invalid email addresses  
+- Invalid email addresses
+- Standardized inconsistent values  
 
 ## 🧠 SQL Concepts Used
 - `SELECT`, `UPDATE`, `DELETE`,`GROUP BY`,`HAVING`,`ORDER BY`
@@ -36,7 +37,8 @@ The objective is to transform raw data into a **clean, consistent, and analysis-
 ## ✅ Final Outcome
 After completing all data cleaning steps:
 - Duplicate records were removed  
-- Missing values were properly handled  
+- Missing values were properly handled
+- Standardized categorical values 
 - Data types were standardized  
 - Numerical and date values were corrected  
 - Dataset became **clean, consistent, and analysis-ready**
